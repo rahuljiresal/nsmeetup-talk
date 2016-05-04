@@ -1,0 +1,17 @@
+{
+  "name": "demogram",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "lodash": "^4.11.2",
+    "react": "^0.14.8",
+    "react-native": "^0.24.1",
+    "react-native-auto-updater": "^0.2.5",
+    "react-native-instagram-oauth": "0.0.7",
+    "react-native-navbar": "git+https://github.com/aerofs/react-native-navbar.git",
+    "react-native-rj-navigator": "^0.1.8"
+  }
+}
